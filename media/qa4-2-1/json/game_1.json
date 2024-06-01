@@ -1,0 +1,22 @@
+[
+  {
+    "scene" : "MCGame",
+    "num_quest" : 5
+  },
+  {
+    "scene" : "WFGame",
+    "num_true" : 10
+  },
+  {
+    "scene" : "WL2Game",
+    "num_drag" : 2,
+    "answers" : [2,2,1,2,1]
+  },
+  {
+    "scene" : "TFGame",
+    "answers" : [1, 0, 1, 0, 0, 1, 0, 1, 0, 1]
+  }
+]
+
+
+

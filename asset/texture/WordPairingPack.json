@@ -1,0 +1,104 @@
+{
+	"textures": [
+		{
+			"image": "WordPairingPack.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1474,
+				"h": 722
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "bg.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1280,
+						"h": 720
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1280,
+						"h": 720
+					}
+				},
+				{
+					"filename": "drop.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 192,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 1,
+						"w": 190,
+						"h": 85
+					},
+					"frame": {
+						"x": 1283,
+						"y": 1,
+						"w": 190,
+						"h": 85
+					}
+				},
+				{
+					"filename": "wp_sign_0001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 37,
+						"h": 37
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 2,
+						"w": 35,
+						"h": 34
+					},
+					"frame": {
+						"x": 1283,
+						"y": 88,
+						"w": 35,
+						"h": 34
+					}
+				},
+				{
+					"filename": "wp_sign_0002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 37,
+						"h": 37
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 2,
+						"w": 35,
+						"h": 34
+					},
+					"frame": {
+						"x": 1283,
+						"y": 124,
+						"w": 35,
+						"h": 34
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:7ed7d51b9df2c12d424aa35030ef9c54:91257249b72705b050f130c475ad826c:2ace846b52dff756a4d60e71bf54d3ba$"
+	}
+}

@@ -1,0 +1,83 @@
+{
+	"textures": [
+		{
+			"image": "WordFindingPack.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1319,
+				"h": 722
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "bg.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1280,
+						"h": 720
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1280,
+						"h": 720
+					}
+				},
+				{
+					"filename": "wf_sign_0001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 35,
+						"h": 35
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 35,
+						"h": 34
+					},
+					"frame": {
+						"x": 1283,
+						"y": 1,
+						"w": 35,
+						"h": 34
+					}
+				},
+				{
+					"filename": "wf_sign_0002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 35,
+						"h": 35
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 1,
+						"w": 35,
+						"h": 34
+					},
+					"frame": {
+						"x": 1283,
+						"y": 37,
+						"w": 35,
+						"h": 34
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:ea29a40a3e222bf2945031ee105e83b8:061defc050120b9e172c23118668b85e:7828d63978f01046f5be78645d6e6931$"
+	}
+}

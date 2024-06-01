@@ -1,0 +1,62 @@
+{
+	"textures": [
+		{
+			"image": "MenuPack.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1282,
+				"h": 807
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "bg_menu.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1280,
+						"h": 720
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1280,
+						"h": 720
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1280,
+						"h": 720
+					}
+				},
+				{
+					"filename": "mulai_btn.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 365,
+						"h": 85
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 1,
+						"w": 363,
+						"h": 83
+					},
+					"frame": {
+						"x": 1,
+						"y": 723,
+						"w": 363,
+						"h": 83
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:08dcf5281e644e499ea909f042b08fed:39d77710468f3fe4cb8ce7732f56d004:841a3ea3ab713518295478031d7a43c7$"
+	}
+}
